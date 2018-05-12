@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '37106'
     url: http://www.gutenberg.org/2009/agents/37106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34593#Famous-FlyersAnd-Their-Famous-Flights
 gutenberg_issued: '2010-12-07'
 gutenberg_type: Text
 identifiers:
